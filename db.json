@@ -1,11 +1,48 @@
 {
-  "posts": [
+  "engineTypes": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": "diesel",
+      "title": "Diesel"
+    },
+    {
+      "id": "petrol",
+      "title": "Petrol"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "transmissionTypes": [
+    {
+      "id": "automatic",
+      "title": "Automatic"
+    },
+    {
+      "id": "manual",
+      "title": "Manual"
+    }
+  ],
+  "equipmentTypes": [
+    {
+      "id": "electronicPanoramicSunroof",
+      "title": "Electronic Panoramic Sunroof"
+    },
+    {
+      "id": "leatherSeats",
+      "title": "Leather Seats"
+    },
+    {
+      "id": "ledLights",
+      "title": "Led Lights"
+    },
+    {
+      "id": "navigationPackage",
+      "title": "Navigation Package"
+    },
+    {
+      "id": "parkAssistant",
+      "title": "Park Assitant"
+    },
+    {
+      "id": "premiumSafetyPack",
+      "title": "Premium Safety Pack"
+    }
+  ]
 }
